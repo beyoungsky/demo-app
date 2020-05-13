@@ -10,7 +10,7 @@ import {
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/demo-app">
       <div>
         <ul>
           <li>
